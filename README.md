@@ -94,7 +94,9 @@ Install this project with:
 To run the project, execute the following command:
 
 - rails db:create db:migrate db:seed
-- API endpoint: url = http://127.0.0.1:3000/api/v1/greetings
+- API endpoint: url = http://127.0.0.1:3001/api/v1/greetings
+- run rails server on port 3001
+- run react dev server on port 3000
 
 <!-- AUTHORS -->
 
